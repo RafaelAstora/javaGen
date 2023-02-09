@@ -22,6 +22,8 @@ public class atvd4 {
 		
 		System.out.printf("diferença: %d",diferenca);
 		
+		
+		
 	}
 
 }

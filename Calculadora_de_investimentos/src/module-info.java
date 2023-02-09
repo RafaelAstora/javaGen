@@ -5,5 +5,5 @@
  * @author Rafongaas
  *
  */
-module CalculoFormas {
+module Calculadora_de_investimentos {
 }
