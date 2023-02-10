@@ -9,7 +9,7 @@ public class atvd3 {
 
 		int i = 1, contaMn = 0, contaMa = 0, idade;
 
-		while (i <= 11) {
+		while (i > 0) {
 			System.out.println("Digite uma idade: ");
 			idade = sc.nextInt();
 			if (idade >= 0) {
@@ -20,7 +20,7 @@ public class atvd3 {
 					contaMn++;
 				}
 
-			}else i = 11;
+			}
 
 			i++;
 		}

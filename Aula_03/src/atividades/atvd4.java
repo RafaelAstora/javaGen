@@ -91,11 +91,13 @@ public class atvd4 {
 			sc.skip("\\R");
 			SN = sc.next();
 		
-			if (SN.equalsIgnoreCase("s")) {
+			if (SN.equalsIgnoreCase("n")) {
 				continuar = false;
+		
+			
 			}
 		}
-
+		System.out.println("Encerrendo programa....");
 	}
 
 }
