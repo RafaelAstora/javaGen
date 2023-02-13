@@ -30,11 +30,9 @@ public class atvd3 {
 		    }
 		 
 		 
-		 System.out.println("\n\nA soma da diagonal principal: " + soma1);
+		 	System.out.println("\n\nA soma da diagonal principal: " + soma1);
 		    System.out.println("\nA soma da diagonanal secundária: " + soma2);
-			 
-			 
-		
+
 			
 	}
 
