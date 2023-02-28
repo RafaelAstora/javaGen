@@ -11,7 +11,6 @@ public class Jogo extends Produto {
 		Studio = studio;
 	}
 
-	
 
 
 	public void visualizar() {

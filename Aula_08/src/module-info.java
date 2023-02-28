@@ -5,5 +5,5 @@
  * @author Rafongaas
  *
  */
-module conta {
+module Aula_08 {
 }
